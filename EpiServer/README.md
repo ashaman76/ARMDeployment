@@ -20,5 +20,3 @@ This template allows you to create resources required for EpiServerCMS deploymen
 Once the Azure Resources are Prepared for EPiServerCMS, follow the instructions [Here](http://world.episerver.com/documentation/Items/Developers-Guide/Episerver-CMS/9/Deployment/Deployment-scenarios/Deploying-to-Azure-webapps/) for step by step guidance to deploy EPiServerCMS in Azure
 
 For more information about Running EPiServer in Azure, [Click Here](https://azure.microsoft.com/en-us/blog/announcing-episerver-cms-in-azure-marketplace-3/).
-
-Hi

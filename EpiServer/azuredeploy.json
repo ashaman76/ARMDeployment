@@ -245,7 +245,7 @@
                },
                "properties":{
                   "webSocketsEnabled":"True",
-                  "alwaysOn":"True"
+                  "alwaysOn":"False"
                }
             }
          ]
